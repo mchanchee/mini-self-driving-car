@@ -4,4 +4,5 @@ A basic self-driving car using Verilog developed for the CSC258 project at the U
 - It is not meant to implement Machine Learning functionalities such as object detection or semantic segmentation.
 
 For a real self-driving car, I'm on the Perception subteam of [aUToronto](https://www.autodrive.utoronto.ca/), the University of Toronto's autonomous vehicle team. We are the 2018 and 2019 Champions of North America at the [SAE/GM AutoDrive Challenge](https://www.sae.org/attend/student-events/autodrive-challenge/).
+
 ![](Recording.gif)
